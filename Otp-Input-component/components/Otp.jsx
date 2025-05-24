@@ -42,7 +42,7 @@ const Otp = () => {
         <br /><br />
         <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition duration-300 ml-40">
           Submit Otp 
-        </button>  //this change is directly made on Github
+        </button>  {/* this change is directly made on Github */}
       </form>
     </>
   );
