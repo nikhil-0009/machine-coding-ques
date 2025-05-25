@@ -1,0 +1,19 @@
+.main{
+  margin: 20px;
+  padding: 10px 30px;
+  background-color: ghostwhite;
+  box-shadow: 1px 1px;
+}
+.head{
+  background-color: rgba(149, 149, 154, 0.211);
+  border-radius: 15px;
+  /* margin: 12px; */
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 80%;
+  margin: auto;
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+}
