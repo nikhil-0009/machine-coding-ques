@@ -1,0 +1,19 @@
+.outer{
+    width: 80%;
+    /* height: 30px; */
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 15px;
+    overflow: hidden;
+}
+.inner{
+    background-color: green;
+    text-align: center;
+    transition: ease-in 0.5s;
+    
+    
+}
+.inner h3{
+    margin: 0;
+    text-align: right;
+}
